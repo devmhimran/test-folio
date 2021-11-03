@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <section class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="#" class="logo">
+                        <img class="logo" src="./src/img/logo-main.svg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6">
+                    <div class="header-right">
+                        <a href="#" class="header-contact-text">Let's Talk</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="hero">
+        <div class="container">
+            <div class="hero-main">
+                <div class="hero-content">     
+                        <h1  class="hero-title">Let's Work Together</h1>
+                        <p class="hero-text">We work with people and early-stage organizations who want to meaningfully challenge the status quo and make the world a kinder place. We amplify their purpose by co-creating a unified and impactful experience of their vision</p>
+                        <div class="hero-btn">
+                            <a href="#" class="hero-talk-btn">Let's Talk<i class="fas fa-long-arrow-alt-right"></i></a>
+                        </div>
+                        
+                        <img class="hero-content-img" src="./src/img/hero-content-img.png" alt="">
+                        <!-- <img src="./src/img/hero-svg.gif" alt="" class="hero-svg">                   -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content-section">
+        <div class="container">
+            <h1 class="content-section-title">Work </h1>
+            <hr class="solid">
+            <div class="row first-conent-row">
+                <div class="col-md-6">
+                    
+                        <div class="first-content-left">
+                            <img src="./src/img/work-img-01.jpg" alt="">                          
+                        </div> 
+                    
+                </div>
+                <div class="col-md-6">
+                    <div class="first-content-right">
+                        <div class="first-content-right-main">
+                            <h1> Design And Development</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, 
+                            pulvinar dapibus leo.</p>
+                            <a href="#" class="work-content-btn">learn more<i class="fas fa-long-arrow-alt-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row second-conent-row">
+                <div class="col-md-6">
+                    <div class="second-content-left">
+                        <div class="second-content-right-main">
+                            <h1> Design And Development</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, 
+                            pulvinar dapibus leo.</p>
+                            <a href="#" class="work-content-btn">learn more<i class="fas fa-long-arrow-alt-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                    
+                <div class="col-md-6">
+                    <div class="second-content-right">
+                        <img src="./src/img/work-img-02.jpg" alt=""> 
+                    </div>
+                </div>
+            </div>
+
+            <div class="row third-conent-row">
+                <div class="col-md-6">
+
+                        <div class="third-content-left">
+                            <img src="./src/img/work-img-03.jpg" alt="">                          
+                        </div> 
+                </div>
+                <div class="col-md-6">
+                    <div class="third-content-right">
+                        <div class="first-content-right-main">
+                            <h1> Design And Development</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, 
+                            pulvinar dapibus leo.</p>
+                            <a href="#" class="work-content-btn">learn more<i class="fas fa-long-arrow-alt-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    
+    <div class="cursor"></div>
+    <script>
+        const cursor = document.querySelector('.cursor');
+        document.addEventListener('mousemove',(e) => {
+            cursor.style.left = e.pageX +'px';
+            cursor.style.top = e.pageY +'px';
+        });
+
+
+
+        
+    </script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
