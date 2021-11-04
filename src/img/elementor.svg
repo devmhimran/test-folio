@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="129" viewBox="0 0 400 129">
+  <defs>
+    <clipPath id="clip-elementor">
+      <rect width="400" height="129"/>
+    </clipPath>
+  </defs>
+  <g id="elementor" clip-path="url(#clip-elementor)">
+    <rect width="400" height="129" fill="#fff"/>
+    <path id="elementor-icons" d="M5,5V58H58V5ZM9.818,9.818H53.182V53.182H9.818Zm9.636,9.636V43.545h4.818V19.455Zm9.636,0v4.818H43.545V19.455Zm0,9.636v4.818H43.545V29.091Zm0,9.636v4.818H43.545V38.727Z" transform="translate(28 33)"/>
+    <text id="Elementor-2" data-name="Elementor" transform="translate(111 84)" font-size="55" font-family="WulkanDisplaySemiBold, Wulkan Display"><tspan x="0" y="0">Elementor</tspan></text>
+  </g>
+</svg>

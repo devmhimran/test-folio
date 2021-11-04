@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="129" viewBox="0 0 400 129">
+  <defs>
+    <clipPath id="clip-Figma">
+      <rect width="400" height="129"/>
+    </clipPath>
+  </defs>
+  <g id="Figma" clip-path="url(#clip-Figma)">
+    <rect width="400" height="129" fill="#fff"/>
+    <text id="Figma-2" data-name="Figma" transform="translate(149 84)" font-size="55" font-family="WulkanDisplaySemiBold, Wulkan Display"><tspan x="0" y="0">Figma</tspan></text>
+    <path id="figma-icon" d="M14.844,1A9.877,9.877,0,0,0,5,10.844,9.685,9.685,0,0,0,8.935,18.5,9.685,9.685,0,0,0,5,26.156a9.685,9.685,0,0,0,3.935,7.656A9.685,9.685,0,0,0,5,41.469a9.844,9.844,0,0,0,19.688,0V20.688h5.469A9.844,9.844,0,0,0,30.156,1H14.844Zm0,4.375h5.469V16.313H14.844a5.469,5.469,0,0,1,0-10.937Zm9.844,0h5.469a5.469,5.469,0,0,1,0,10.938H24.688ZM14.844,20.688h5.469V31.625H14.844a5.469,5.469,0,0,1,0-10.937Zm16.406,0a6.563,6.563,0,1,0,6.563,6.563A6.563,6.563,0,0,0,31.25,20.688ZM14.844,36h5.469v5.469A5.469,5.469,0,1,1,14.844,36Z" transform="translate(93 38.344)"/>
+  </g>
+</svg>

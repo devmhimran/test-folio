@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="129" viewBox="0 0 400 129">
+  <defs>
+    <clipPath id="clip-Wix_3">
+      <rect width="400" height="129"/>
+    </clipPath>
+  </defs>
+  <g id="Wix_3" data-name="Wix – 3" clip-path="url(#clip-Wix_3)">
+    <rect width="400" height="129" fill="#fff"/>
+    <text id="Adobe_Xd" data-name="Adobe Xd" transform="translate(114.292 84)" font-size="55" font-family="WulkanDisplaySemiBold, Wulkan Display"><tspan x="0" y="0">Adobe Xd</tspan></text>
+    <path id="xd-icon" d="M6.381,4A2.4,2.4,0,0,0,4,6.381V51.619A2.4,2.4,0,0,0,6.381,54H51.619A2.4,2.4,0,0,0,54,51.619V6.381A2.4,2.4,0,0,0,51.619,4Zm0,2.381H51.619V51.619H6.381ZM40.31,15.9V25.28a3.568,3.568,0,0,0-3.33-2.232c-2.857,0-5.6,2.824-5.6,9.375,0,6.1,2.21,10.045,5.334,10.045a3.649,3.649,0,0,0,3.595-2.307V42.1h2.976c-.038-1.067,0-2.761,0-4.018V15.9ZM14.756,17.1l6.527,12.5L14.756,42.1H17.69l5.067-9.675L27.81,42.1h2.976L24.238,29.6l6.548-12.5H27.81L22.757,26.77,17.69,17.1Zm22.87,8.466c1.41,0,2.515,1.683,2.667,3.588.038.418,0,.885,0,1.265v5.432a5.356,5.356,0,0,1-.149,1.042c-.648,2.665-1.829,3.141-2.744,3.141-2.133,0-3.088-3.72-3.088-7.606C34.313,28.729,35.188,25.561,37.626,25.561Z" transform="translate(42.708 33)"/>
+  </g>
+</svg>
