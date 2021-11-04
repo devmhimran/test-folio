@@ -168,7 +168,7 @@ hr.solid {
     transition: top 0.025s ease, left 0.025s ease, transform 0.25s ease;
   }
 .slide-img{
-    width: 90%;
+    width: 95%;
 }
 hr.solid-two {
     width: 100px;
@@ -213,6 +213,6 @@ hr.solid-two {
     background-position: top;
 }
 .img-box:hover{
-    background-position: bottom;
+    background-position: bottom ;
   
 }
