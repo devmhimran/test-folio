@@ -185,28 +185,28 @@ hr.solid-two {
 
 
 .img-box-1{
-    background: url(src/img/project-img/1.jpg);
+    background: url(../img/project-img/1.jpg);
 }
 .img-box-2{
-    background: url(src/img/project-img/2.jpg);
+    background: url(../img/project-img/2.jpg);
 }
 .img-box-3{
-    background: url(src/img/project-img/3.jpg);
+    background: url(../img/project-img/3.jpg);
 }
 .img-box-4{
-    background: url(src/img/project-img/4.jpg);
+    background: url(../img/project-img/4.jpg);
 }
 .img-box-5{
-    background: url(src/img/project-img/5.jpg);
+    background: url(../img/project-img/5.jpg);
 }
 .img-box-6{
-    background: url(src/img/project-img/6.jpg);
+    background: url(../img/project-img/6.jpg);
 }
 .img-box-7{
-    background: url(src/img/project-img/7.jpg);
+    background: url(../img/project-img/7.jpg);
 }
 .img-box-8{
-    background: url(src/img/project-img/8.jpg);
+    background: url(../img/project-img/8.jpg);
 }
 .img-box-size{
     background-size: cover;
