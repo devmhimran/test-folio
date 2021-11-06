@@ -177,7 +177,7 @@ hr.solid-two {
   }
 .img-box{
     background-color: #fff;
-    width: 550px;
+    width: 450px;
     height: 620px;
     transition: ease-in-out 8s;
     margin: 20px 0;
@@ -185,16 +185,16 @@ hr.solid-two {
 
 
 .img-box-1{
-    background: url(../img/project-img/1.jpg);
+    background: url(../img/project-img/1.png);
 }
 .img-box-2{
-    background: url(../img/project-img/2.jpg);
+    background: url(../img/project-img/2.png);
 }
 .img-box-3{
-    background: url(../img/project-img/3.jpg);
+    background: url(../img/project-img/3.png);
 }
 .img-box-4{
-    background: url(../img/project-img/4.jpg);
+    background: url(../img/project-img/4.png);
 }
 .img-box-5{
     background: url(../img/project-img/5.jpg);
